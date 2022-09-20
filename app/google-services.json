@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "663660748690",
+    "project_id": "hq-wallpaper-1c40a",
+    "storage_bucket": "hq-wallpaper-1c40a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663660748690:android:7aa743733197de5e8eab4b",
+        "android_client_info": {
+          "package_name": "com.example.hqwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663660748690-nmbud3vc0ajmhroogcsr24u0tluj43h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuk7UTcCnm6ZlzFqJFoiLomkREQ6sVvMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663660748690-nmbud3vc0ajmhroogcsr24u0tluj43h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
